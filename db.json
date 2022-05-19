@@ -1,16 +1,29 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+  "statisticsCard": {
+      "title": "StatisticCard",
+      "description": "Top 10 requestor, top 5 request turnarounds, bottom 50% of queries",
+      "statisticData": [
+          {
+              "title": "Requests",
+              "count": "178",
+              "total": "178"
+          },
+          {
+              "title": "Orders",
+              "count": "33",
+              "total": "$48k"
+          },
+          {
+              "title": "Approvals",
+              "count": "Avg",
+              "total": "7.3hrs"
+          },
+          {
+              "title": "Queries",
+              "count": "3",
+              "total": "$27k"
+          }
+      ]
+}
+  
 }
