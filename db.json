@@ -1,29 +1,79 @@
 {
-  "statisticsCard": {
-      "title": "StatisticCard",
-      "description": "Top 10 requestor, top 5 request turnarounds, bottom 50% of queries",
-      "statisticData": [
-          {
-              "title": "Requests",
-              "count": "178",
-              "total": "178"
-          },
-          {
-              "title": "Orders",
-              "count": "33",
-              "total": "$48k"
-          },
-          {
-              "title": "Approvals",
-              "count": "Avg",
-              "total": "7.3hrs"
-          },
-          {
-              "title": "Queries",
-              "count": "3",
-              "total": "$27k"
-          }
-      ]
-}
-  
+    "statisticsCard": {
+        "title": "StatisticCard",
+        "description": "Top 10 requestor, top 5 request turnarounds, bottom 50% of queries",
+        "statisticData": [
+            {
+                "title": "Requests",
+                "count": "178",
+                "total": "178"
+            },
+            {
+                "title": "Orders",
+                "count": "33",
+                "total": "$48k"
+            },
+            {
+                "title": "Approvals",
+                "count": "Avg",
+                "total": "7.3hrs"
+            },
+            {
+                "title": "Queries",
+                "count": "3",
+                "total": "$27k"
+            }
+        ]
+    },
+    "activityTimeline": [
+        {
+            "id": 1,
+            "type": "Request",
+            "title": "Request #1234",
+            "description": "Submitted for Approval to John Perry and Stanton Lloyd",
+            "date": "Wednesday"
+        },
+        {
+            "id": 2,
+            "type": "Invoice",
+            "title": "Alert on Invoice #78811",
+            "description": "An alert: Variance greater than 10% was triggered",
+            "date": "May 15"
+        },
+        {
+            "id": 3,
+            "type": "Invoice",
+            "title": "Invoice #78811",
+            "description": "Was linked to your PO #1234 and submitted for approval",
+            "date": "May 11"
+        },
+        {
+            "id": 4,
+            "type": "PO",
+            "title": "Order PO #78811",
+            "description": "A quantity of 15 was received by info@erequester.com",
+            "date": "May 10"
+        },
+        {
+            "id": 5,
+            "type": "success",
+            "title": "8 Invoices have been paid",
+            "description": "Invoices have been paid to the company.",
+            "date": "May 4"
+        },
+        {
+            "id": 6,
+            "type": "success",
+            "title": "1 Invoices have been paid",
+            "description": "Invoices have been paid to the company.",
+            "date": "May 3"
+        },
+        {
+            "id": 7,
+            "type": "success",
+            "title": "8 Invoices have been paid",
+            "description": "Invoices have been paid to the company.",
+            "date": "May 1"
+        }
+    ]
 }
