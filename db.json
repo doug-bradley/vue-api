@@ -35,7 +35,7 @@
         },
         {
             "id": 2,
-            "type": "Invoice",
+            "type": "Alert",
             "title": "Alert on Invoice #78811",
             "description": "An alert: Variance greater than 10% was triggered",
             "date": "May 15"
