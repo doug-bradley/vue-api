@@ -75,5 +75,31 @@
             "description": "Invoices have been paid to the company.",
             "date": "May 1"
         }
-    ]
+    ],
+    "vendorSpend": [
+        {
+          "avatar": "zipcar",
+          "title": "Amazon",
+          "subtitle": "Vuejs, React & HTML",
+          "earning": "$24,895.65",
+          "progress": "85",
+          "color": "primary"
+        },
+        {
+          "avatar": "bitbank",
+          "title": "Office Depot",
+          "subtitle": "Sketch, Figma & XD",
+          "earning": "$8,6500.20",
+          "progress": "65",
+          "color": "info"
+        },
+        {
+          "avatar": "aviato",
+          "title": "Google",
+          "subtitle": "HTML & angular",
+          "earning": "$1,2450.80",
+          "progress": "30",
+          "color": "secondary"
+        }
+      ]
 }
