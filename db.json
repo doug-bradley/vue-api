@@ -74,6 +74,34 @@
             "title": "Travel #4544",
             "description": "Submitted for Approval to John Perry and Stanton Lloyd",
             "date": "May 1"
+        },
+        {
+            "id": 8,
+            "type": "Capex",
+            "title": "Capex #4547",
+            "description": "Submitted for Approval to John Perry and Stanton Lloyd",
+            "date": "May 1"
+        },
+        {
+            "id": 9,
+            "type": "Time",
+            "title": "Time #4544",
+            "description": "Submitted for Approval to John Perry and Stanton Lloyd",
+            "date": "May 1"
+        },
+        {
+            "id": 10,
+            "type": "Cash Advance",
+            "title": "Cash Advance #4544",
+            "description": "Submitted for Approval to John Perry and Stanton Lloyd",
+            "date": "May 1"
+        },
+        {
+            "id": 11,
+            "type": "Travel",
+            "title": "Travel #9654",
+            "description": "Submitted for Approval to John Perry and Stanton Lloyd",
+            "date": "May 1"
         }
     ],
     "vendorSpend": [
