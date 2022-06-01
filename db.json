@@ -56,23 +56,23 @@
         },
         {
             "id": 5,
-            "type": "Invoice",
-            "title": "8 Invoices have been paid",
-            "description": "Invoices have been paid to the company.",
+            "type": "Expense",
+            "title": "Expense #78811",
+            "description": "Submitted for Approval to John Perry and Stanton Lloyd",
             "date": "May 4"
         },
         {
             "id": 6,
-            "type": "Invoice",
-            "title": "1 Invoices have been paid",
-            "description": "Invoices have been paid to the company.",
+            "type": "Leave",
+            "title": "Leave #4544",
+            "description": "Submitted for Approval to John Perry and Stanton Lloyd",
             "date": "May 3"
         },
         {
             "id": 7,
-            "type": "Invoice",
-            "title": "8 Invoices have been paid",
-            "description": "Invoices have been paid to the company.",
+            "type": "Travel",
+            "title": "Travel #4544",
+            "description": "Submitted for Approval to John Perry and Stanton Lloyd",
             "date": "May 1"
         }
     ],
