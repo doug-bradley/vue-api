@@ -58,7 +58,7 @@
             "id": 5,
             "type": "Expense",
             "title": "Expense #78811",
-            "description": "Submitted for Approval to John Perry and Stanton Lloyd",
+            "description": "Submitted for Approval to <a href='/Employee/Edit/6881'>John Perry</a> and Stanton Lloyd",
             "date": "May 4"
         },
         {
