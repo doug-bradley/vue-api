@@ -29,6 +29,7 @@
         {
             "id": 63991,
             "type": "Request",
+            "action": "approve",
             "title": "Request #1234",
             "description": "Submitted for Approval to John Perry and Stanton Lloyd",
             "date": "Wednesday"
@@ -36,6 +37,7 @@
         {
             "id": 2,
             "type": "Alert",
+            "action": "variance",
             "title": "Alert on Invoice #78811",
             "description": "An alert: Variance greater than 10% was triggered",
             "date": "May 15"
@@ -43,6 +45,7 @@
         {
             "id": 3,
             "type": "Invoice",
+            "action": "linked",
             "title": "Invoice #78811",
             "description": "Was linked to your PO #1234 and submitted for approval",
             "date": "May 11"
@@ -50,6 +53,7 @@
         {
             "id": 4,
             "type": "PO",
+            "actoin": "received",
             "title": "Order PO #78811",
             "description": "A quantity of 15 was received by info@erequester.com",
             "date": "May 10"
@@ -57,6 +61,7 @@
         {
             "id": 5,
             "type": "Expense",
+            "action": "approve",
             "title": "Expense #78811",
             "description": "Submitted for Approval to <a href='/Employee/Edit/6881'>John Perry</a> and Stanton Lloyd",
             "date": "May 4"
@@ -64,6 +69,7 @@
         {
             "id": 6,
             "type": "Leave",
+            "action": "approve",
             "title": "Leave #4544",
             "description": "Submitted for Approval to John Perry and Stanton Lloyd",
             "date": "May 3"
@@ -71,6 +77,7 @@
         {
             "id": 7,
             "type": "Travel",
+            "action": "approved",
             "title": "Travel #4544",
             "description": "Submitted for Approval to John Perry and Stanton Lloyd",
             "date": "May 1"
@@ -78,6 +85,7 @@
         {
             "id": 8,
             "type": "Capex",
+            "action": "approved",
             "title": "Capex #4547",
             "description": "Submitted for Approval to John Perry and Stanton Lloyd",
             "date": "May 1"
@@ -85,6 +93,7 @@
         {
             "id": 9,
             "type": "Time",
+            "action": "quote",
             "title": "Time #4544",
             "description": "Submitted for Approval to John Perry and Stanton Lloyd",
             "date": "May 1"
@@ -92,6 +101,7 @@
         {
             "id": 10,
             "type": "CashAdvance",
+            "action": "punchout",
             "title": "Cash Advance #4544",
             "description": "Submitted for Approval to John Perry and Stanton Lloyd",
             "date": "May 1"
@@ -99,6 +109,7 @@
         {
             "id": 11,
             "type": "Travel",
+            "action": "approved",
             "title": "Travel #9654",
             "description": "Submitted for Approval to John Perry and Stanton Lloyd",
             "date": "May 1"
