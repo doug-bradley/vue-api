@@ -53,7 +53,7 @@
         {
             "id": 4,
             "type": "PO",
-            "actoin": "received",
+            "action": "received",
             "title": "Order PO #78811",
             "description": "A quantity of 15 was received by info@erequester.com",
             "date": "May 10"
