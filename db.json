@@ -439,6 +439,7 @@
         {
             "id": 1,
             "link": "#12001",
+            "type": "Request",
             "event": "Approval",
             "description": "Purchase Laptop for R&D was approved",
             "time": "3 mins ago"
@@ -446,6 +447,7 @@
         {
             "id": 2,
             "link": "#123",
+            "type": "Alert",
             "event": "Purchasing",
             "description": "Alert Budget exceeds 50% of current period was triggered",
             "time": "34 mins ago"
@@ -453,6 +455,7 @@
         {
             "id": 3,
             "link": "#695",
+            "type": "Alert",
             "event": "Approval",
             "description": "Alert Budget exceeds 50% of current period was triggered",
             "time": "4 hours ago"
