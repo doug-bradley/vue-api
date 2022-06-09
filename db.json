@@ -434,5 +434,29 @@
             "CreatedDate": "2022-02-25T02:51:05.49",
             "SubmittedDate": "2022-02-25T11:36:14.013"
         }
+    ],
+    "activityTimelineV2": [
+        {
+            "id": 1,
+            "link": "#12001",
+            "event": "Approval",
+            "description": "Purchase Laptop for R&D was approved",
+            "time": "3 mins ago"
+        },
+        {
+            "id": 2,
+            "link": "#123",
+            "event": "Purchasing",
+            "description": "Alert Budget exceeds 50% of current period was triggered",
+            "time": "34 mins ago"
+        },
+        {
+            "id": 3,
+            "link": "#695",
+            "event": "Approval",
+            "description": "Alert Budget exceeds 50% of current period was triggered",
+            "time": "4 hours ago"
+        }
     ]
+
 }
