@@ -441,7 +441,7 @@
             "link": "#12001",
             "type": "Request",
             "event": "Approval",
-            "description": "Purchase Laptop for R&D was approved",
+            "description": "Purchase <b>Laptop for R&D</b> was approved",
             "time": "3 mins ago"
         },
         {
