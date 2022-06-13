@@ -449,7 +449,7 @@
             "link": "#123",
             "type": "Alert",
             "event": "Purchasing",
-            "description": "Alert Budget exceeds 50% of current period was triggered",
+            "description": "Alert <b>Budget exceeds 50% of current period</b> was triggered",
             "time": "34 mins ago"
         },
         {
@@ -457,7 +457,7 @@
             "link": "#695",
             "type": "Alert",
             "event": "Approval",
-            "description": "Alert Budget exceeds 50% of current period was triggered",
+            "description": "Alert <b>Budget exceeds 50% of current period</b> was triggered",
             "time": "4 hours ago"
         }
     ]
