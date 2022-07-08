@@ -2,10 +2,17 @@
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
 
-* [**Create your database**](#create-your-database)
-* [Deploy to **Heroku**](#deploy-to-heroku)
-* [Deploy to **Glitch**](#deploy-to-glitch)
-* [Deploy to **Azure**](#deploy-to-azure)
+- [Deploy `json-server` to `{{ free hosting site }}`](#deploy-json-server-to--free-hosting-site-)
+  - [Create your database](#create-your-database)
+  - [Deploy to **Heroku**](#deploy-to-heroku)
+          - [Pros](#pros)
+          - [Cons](#cons)
+    - [Install Heroku](#install-heroku)
+      - [How it works](#how-it-works)
+  - [Deploy to Glitch](#deploy-to-glitch)
+  - [Deploy to **Azure**](#deploy-to-azure)
+  - [Installation](#installation)
+  - [Create the project](#create-the-project)
 
 ## Create your database
 
@@ -82,7 +89,28 @@ heroku logs --tail
 ```
 
 ---
+<!-- 
+RequestToReview
+RequestToApprove
+RequestToProcess
+RequestAssigned
+RequestAssignmentDone
 
+InvoiceToApprove
+InvoiceToProcess
+InvoiceRejected
+InvoiceAssigned
+InvoiceAssignmentDone
+
+SupplierToApprove
+SupplierRejected
+
+Alert
+ApproversAway
+
+### Compliance
+
+ -->
 #### How it works
 
 Heroku will look for a startup-script, this is by default `npm start` so make sure you have that in your `package.json` (assuming your script is called `server.js`):

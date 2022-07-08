@@ -500,12 +500,11 @@
             "description": "Purchase <b>Laptop for R&D</b> was approved",
             "time": "4 hours ago"
         }
-        
     ],
     "complianceAlerts": [
         {
             "AlertID": 1,
-            "AlertType": "Compliance", 
+            "AlertType": "Compliance",
             "AlertPolicy": "Approval delayed - 12 Hours",
             "DocumentId": "151",
             "DocumentReference": "Paymerang Demo",
@@ -514,7 +513,7 @@
         },
         {
             "AlertID": 2,
-            "AlertType": "Compliance", 
+            "AlertType": "Compliance",
             "AlertPolicy": "Approval delayed - 12 Hours",
             "DocumentId": "135",
             "DocumentReference": "test CA approval PO revisioning",
@@ -523,7 +522,7 @@
         },
         {
             "AlertID": 3,
-            "AlertType": "Compliance", 
+            "AlertType": "Compliance",
             "AlertPolicy": "Approval delayed - 12 Hours",
             "DocumentId": "132",
             "DocumentReference": "Laptop",
@@ -532,7 +531,7 @@
         },
         {
             "AlertID": 4,
-            "AlertType": "Budget", 
+            "AlertType": "Budget",
             "AlertPolicy": "Project Budget at risk (80%)",
             "DocumentId": "129",
             "DocumentReference": "Laptop",
@@ -541,7 +540,7 @@
         },
         {
             "AlertID": 5,
-            "AlertType": "Budget", 
+            "AlertType": "Budget",
             "AlertPolicy": "Project Budget at risk (80%)",
             "DocumentId": "125",
             "DocumentReference": "Laptop",
@@ -550,7 +549,7 @@
         },
         {
             "AlertID": 6,
-            "AlertType": "Budget", 
+            "AlertType": "Budget",
             "AlertPolicy": "Project Budget at risk (80%)",
             "DocumentId": "124",
             "DocumentReference": "Medius 2",
@@ -559,7 +558,7 @@
         },
         {
             "AlertID": 7,
-            "AlertType": "Budget", 
+            "AlertType": "Budget",
             "AlertPolicy": "Project Budget at risk (80%)",
             "DocumentId": "123",
             "DocumentReference": "Medius Demo 1",
@@ -568,7 +567,7 @@
         },
         {
             "AlertID": 8,
-            "AlertType": "Budget", 
+            "AlertType": "Budget",
             "AlertPolicy": "Project Budget at risk (80%)",
             "DocumentId": "122",
             "DocumentReference": "Medius Demo",
@@ -577,7 +576,7 @@
         },
         {
             "AlertID": 9,
-            "AlertType": "Compliance", 
+            "AlertType": "Compliance",
             "AlertPolicy": "Approval delayed - 12 Hours",
             "DocumentId": "121",
             "DocumentReference": "Laptops",
@@ -586,7 +585,7 @@
         },
         {
             "AlertID": 10,
-            "AlertType": "Compliance", 
+            "AlertType": "Compliance",
             "AlertPolicy": "Approval delayed - 12 Hours",
             "DocumentId": "111",
             "DocumentReference": "Order number increment 1",
@@ -596,42 +595,106 @@
     ],
     "EmailAlerts": [
         {
-            "AlertID": 11, 
+            "AlertID": 11,
             "AlertType": "Email",
             "AlertPolicy": "RequestToReview",
             "DocumentId": "1212",
-            "DocumentReference": "Epson WorkForce Pro WF-3730 Printer", 
+            "DocumentReference": "Epson WorkForce Pro WF-3730 Printer",
             "Date": "2022-02-24T00:00:00",
             "Message": ""
         },
         {
-            "AlertID": 12, 
+            "AlertID": 12,
             "AlertType": "Email",
             "AlertPolicy": "RequestToApprove",
             "DocumentId": "1212",
-            "DocumentReference": "Epson WorkForce Pro WF-3730 Printer", 
+            "DocumentReference": "Epson WorkForce Pro WF-3730 Printer",
             "Date": "2022-02-24T00:00:00",
             "Message": ""
         },
         {
-            "AlertID": 13, 
+            "AlertID": 13,
             "AlertType": "Email",
             "AlertPolicy": "InvoiceToReview",
             "DocumentId": "1212",
-            "DocumentReference": "TR-211-3917", 
+            "DocumentReference": "TR-211-3917",
             "Date": "2022-02-24T00:00:00",
             "Message": ""
         },
         {
-            "AlertID": 14, 
+            "AlertID": 14,
             "AlertType": "Email",
             "AlertPolicy": "InvoiceToApprove",
             "DocumentId": "1212",
-            "DocumentReference": "TR-211-3917", 
+            "DocumentReference": "TR-211-3917",
             "Date": "2022-02-24T00:00:00",
             "Message": ""
         }
+    ],
+    "BudgetOverview": [
+        {
+            "ReportType": "YTD",
+            "AllocationStructure": "100-99-1000",
+            "FinancialYear": "2022",
+            "BudgetAmount": "70000",
+            "BudgetCommitted": "5000",
+            "BudgetActual": "50000"
+        },
+        {
+            "ReportType": "CurrentPeriod",
+            "AllocationStructure": "100-99-1000",
+            "FinancialYear": "2022",
+            "BudgetAmount": "10000",
+            "BudgetCommitted": "1500",
+            "BudgetActual": "2500"
+        },
+        {
+            "ReportType": "YTD",
+            "AllocationStructure": "100-99-2000",
+            "FinancialYear": "2022",
+            "BudgetAmount": "150000",
+            "BudgetCommitted": "15000",
+            "BudgetActual": "70000"
+        },
+        {
+            "ReportType": "CurrentPeriod",
+            "AllocationStructure": "100-99-2000",
+            "FinancialYear": "2022",
+            "BudgetAmount": "20000",
+            "BudgetCommitted": "2500",
+            "BudgetActual": "4500"
+        },
+        {
+            "ReportType": "YTD",
+            "AllocationStructure": "100-99-3000",
+            "FinancialYear": "2022",
+            "BudgetAmount": "500000",
+            "BudgetCommitted": "50000",
+            "BudgetActual": "330000"
+        },
+        {
+            "ReportType": "CurrentPeriod",
+            "AllocationStructure": "100-99-3000",
+            "FinancialYear": "2022",
+            "BudgetAmount": "100000",
+            "BudgetCommitted": "10500",
+            "BudgetActual": "20500"
+        },
+        {
+            "ReportType": "YTD",
+            "AllocationStructure": "100-99-4000",
+            "FinancialYear": "2022",
+            "BudgetAmount": "70000",
+            "BudgetCommitted": "50000",
+            "BudgetActual": "50000"
+        },
+        {
+            "ReportType": "CurrentPeriod",
+            "AllocationStructure": "100-99-4000",
+            "FinancialYear": "2022",
+            "BudgetAmount": "10000",
+            "BudgetCommitted": "5500",
+            "BudgetActual": "8500"
+        }
     ]
-
-
 }
