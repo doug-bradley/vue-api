@@ -635,66 +635,66 @@
         {
             "ReportType": "YTD",
             "AllocationStructure": "100-99-1000",
-            "FinancialYear": "2022",
-            "BudgetAmount": "70000",
-            "BudgetCommitted": "5000",
-            "BudgetActual": "50000"
+            "FinancialYear": 2022,
+            "BudgetAmount": 70000,
+            "BudgetCommitted": 5000,
+            "BudgetActual": 50000
         },
         {
             "ReportType": "CurrentPeriod",
             "AllocationStructure": "100-99-1000",
-            "FinancialYear": "2022",
-            "BudgetAmount": "10000",
-            "BudgetCommitted": "1500",
-            "BudgetActual": "2500"
+            "FinancialYear": 2022,
+            "BudgetAmount": 10000,
+            "BudgetCommitted": 1500,
+            "BudgetActual": 2500
         },
         {
             "ReportType": "YTD",
             "AllocationStructure": "100-99-2000",
-            "FinancialYear": "2022",
-            "BudgetAmount": "150000",
-            "BudgetCommitted": "15000",
-            "BudgetActual": "70000"
+            "FinancialYear": 2022,
+            "BudgetAmount": 150000,
+            "BudgetCommitted": 15000,
+            "BudgetActual": 70000
         },
         {
             "ReportType": "CurrentPeriod",
             "AllocationStructure": "100-99-2000",
-            "FinancialYear": "2022",
-            "BudgetAmount": "20000",
-            "BudgetCommitted": "2500",
-            "BudgetActual": "4500"
+            "FinancialYear": 2022,
+            "BudgetAmount": 20000,
+            "BudgetCommitted": 2500,
+            "BudgetActual": 4500
         },
         {
             "ReportType": "YTD",
             "AllocationStructure": "100-99-3000",
-            "FinancialYear": "2022",
-            "BudgetAmount": "500000",
-            "BudgetCommitted": "50000",
-            "BudgetActual": "330000"
+            "FinancialYear": 2022,
+            "BudgetAmount": 500000,
+            "BudgetCommitted": 50000,
+            "BudgetActual": 330000
         },
         {
             "ReportType": "CurrentPeriod",
             "AllocationStructure": "100-99-3000",
-            "FinancialYear": "2022",
-            "BudgetAmount": "100000",
-            "BudgetCommitted": "10500",
-            "BudgetActual": "20500"
+            "FinancialYear": 2022,
+            "BudgetAmount": 100000,
+            "BudgetCommitted": 10500,
+            "BudgetActual": 20500
         },
         {
             "ReportType": "YTD",
             "AllocationStructure": "100-99-4000",
-            "FinancialYear": "2022",
-            "BudgetAmount": "70000",
-            "BudgetCommitted": "50000",
-            "BudgetActual": "50000"
+            "FinancialYear": 2022,
+            "BudgetAmount": 70000,
+            "BudgetCommitted": 50000,
+            "BudgetActual": 50000
         },
         {
             "ReportType": "CurrentPeriod",
             "AllocationStructure": "100-99-4000",
-            "FinancialYear": "2022",
-            "BudgetAmount": "10000",
-            "BudgetCommitted": "5500",
-            "BudgetActual": "8500"
+            "FinancialYear": 2022,
+            "BudgetAmount": 10000,
+            "BudgetCommitted": 5500,
+            "BudgetActual": 8500
         }
     ]
 }
