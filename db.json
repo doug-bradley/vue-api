@@ -671,9 +671,7 @@
             "BudgetActual": 8500
         }
     ],
-    "newSection": {
-
-    },
+    "newSection": {},
     "AnalyticsV1": {
         "OrderCost": {
             "title": "Total purchase order amount",
@@ -689,14 +687,14 @@
             "amount": 15,
             "previous": "1,023"
         },
-        "RequestCost": {            
+        "RequestCost": {
             "title": "Total request amount",
             "statistics": "$25.6k",
             "type": "percent",
             "amount": 24,
             "previous": "$25.6k"
         },
-        "RequestCount": {            
+        "RequestCount": {
             "title": "# of requests",
             "statistics": "1,559",
             "type": "percent",
@@ -734,5 +732,11 @@
             "earning": "$1,2450.24",
             "progress": "30"
         }
-    ]
+    ],
+    "vendorTotals": {
+        "totalAmount": "$123,809.00",
+        "type": "percent",
+        "changeAmount": 18,
+        "previous": "$84.9k"
+    }
 }
