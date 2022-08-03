@@ -758,5 +758,49 @@
             "type": "percent",
             "amount": 10
         }
-    ]
+    ],
+    "AnalyticsV1": {
+        "OrderCost": {
+            "title": "Total purchase order amount",
+            "statistics": "$28.9k",
+            "type": "percent",
+            "amount": 18,
+            "previous": "$28.9k"
+        },
+        "OrderCount": {
+            "title": "# of purchase orders",
+            "statistics": "1,023",
+            "type": "percent",
+            "amount": 15,
+            "previous": "1,023"
+        },
+        "RequestCost": {            
+            "title": "Total request amount",
+            "statistics": "$25.6k",
+            "type": "percent",
+            "amount": 24,
+            "previous": "$25.6k"
+        },
+        "RequestCount": {            
+            "title": "# of requests",
+            "statistics": "1,559",
+            "type": "percent",
+            "amount": 9,
+            "previous": "1,559"
+        },
+        "ApprovalCount": {
+            "title": "Average approval time",
+            "statistics": "1.7 hrs",
+            "type": "percent",
+            "amount": 0,
+            "previous": "1.7 hrs"
+        },
+        "QueryCount": {
+            "title": "Queries",
+            "statistics": "0.03k",
+            "type": "percent",
+            "amount": 10,
+            "previous": "0.03k"
+        }
+    }
 }
