@@ -676,42 +676,48 @@
         "OrderCost": {
             "title": "Total purchase order amount",
             "statistics": 28900,
-            "type": "percent",
+            "amountType": "currency",
+            "changeType": "percent",
             "amount": 18,
             "previous": 28900
         },
         "OrderCount": {
             "title": "# of purchase orders",
             "statistics": 1023,
-            "type": "percent",
+            "amountType": "number",
+            "changeType": "percent",
             "amount": 15,
             "previous": 1023
         },
         "RequestCost": {
             "title": "Total request amount",
             "statistics": 256000,
-            "type": "percent",
+            "amountType": "currency",
+            "changeType": "percent",
             "amount": 24,
             "previous": 256000
         },
         "RequestCount": {
             "title": "# of requests",
             "statistics": 1559,
-            "type": "percent",
+            "amountType": "number",
+            "changeType": "percent",
             "amount": 9,
             "previous": 1559
         },
         "ApprovalCount": {
             "title": "Average approval time",
             "statistics": 1.7,
-            "type": "percent",
+            "amountType": "number",
+            "changeType": "percent",
             "amount": 0,
             "previous": 1.7
         },
         "QueryCount": {
             "title": "Queries",
             "statistics": 3,
-            "type": "percent",
+            "amountType": "number",
+            "changeType": "percent",
             "amount": 10,
             "previous": 3
         }
