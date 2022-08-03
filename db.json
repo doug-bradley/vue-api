@@ -734,9 +734,9 @@
         }
     ],
     "vendorTotals": {
-        "totalAmount": "123809.00",
+        "totalAmount": 123809.00,
         "type": "percent",
         "changeAmount": 18,
-        "previous": "84000"
+        "previous": 84000
     }
 }
