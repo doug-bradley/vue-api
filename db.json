@@ -708,7 +708,7 @@
         "ApprovalCount": {
             "title": "Average approval time",
             "statistics": 1.7,
-            "amountType": "number",
+            "amountType": "average",
             "changeType": "percent",
             "amount": 0,
             "previous": 1.7
