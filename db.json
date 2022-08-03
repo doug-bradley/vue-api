@@ -696,5 +696,67 @@
             "BudgetCommitted": 5500,
             "BudgetActual": 8500
         }
+    ],
+    "Analytics": [
+        {
+            "analyticType": "OrderCost",
+            "statTitle": "Orders",
+            "icon": "clipboard",
+            "color": "#3366FF",
+            "subtitle": "Total purchase order amount",
+            "statistics": "$28.9k",
+            "type": "percent",
+            "amount": 18
+        },
+        {
+            "analyticType": "OrderCount",
+            "statTitle": "Orders",
+            "icon": "clipboard",
+            "color": "#3366FF",
+            "subtitle": "# of purchase orders",
+            "statistics": "1,023",
+            "type": "percent",
+            "amount": 15
+        },
+        {
+            "analyticType": "RequestCost",
+            "statTitle": "Request",
+            "icon": "file-plus",
+            "color": "#05C3DE",
+            "subtitle": "Total request amount",
+            "statistics": "$25.6k",
+            "type": "percent",
+            "amount": 24
+        },
+        {
+            "analyticType": "RequestCount",
+            "statTitle": "Request",
+            "icon": "file-plus",
+            "color": "#05C3DE",
+            "subtitle": "# of requests",
+            "statistics": "1,559",
+            "type": "percent",
+            "amount": 9
+        },
+        {
+            "analyticType": "ApprovalCount",
+            "statTitle": "Approvals",
+            "icon": "check-circle",
+            "color": "#21D630",
+            "subtitle": "Average approval time",
+            "statistics": "1.7 hrs",
+            "type": "percent",
+            "amount": 0
+        },
+        {
+            "analyticType": "QueryCount",
+            "statTitle": "Queries",
+            "icon": "help-circle",
+            "color": "#440b8f",
+            "subtitle": "Queries",
+            "statistics": "0.03k",
+            "type": "percent",
+            "amount": 10
+        }
     ]
 }
