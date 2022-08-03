@@ -719,18 +719,18 @@
     "vendorTop3": [
         {
             "name": "Amazon",
-            "earning": "$24,895.65",
-            "progress": "85"
+            "earning": 24895.65,
+            "progress": 85
         },
         {
             "name": "Office Depot",
-            "earning": "$8,6500.20",
-            "progress": "65"
+            "earning": 86500.20,
+            "progress": 65
         },
         {
             "name": "Google",
-            "earning": "$1,2450.24",
-            "progress": "30"
+            "earning": 12450.24,
+            "progress": 30
         }
     ],
     "vendorTotals": {
