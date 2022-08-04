@@ -726,17 +726,20 @@
         {
             "name": "Amazon",
             "earning": 24895.65,
-            "progress": 85
+            "progress": 85,
+            "href": "/Supplier/Edit/32548"
         },
         {
             "name": "Office Depot",
             "earning": 86500.20,
-            "progress": 65
+            "progress": 65,
+            "href": "/Supplier/Edit/32473" 
         },
         {
             "name": "Google",
             "earning": 12450.24,
-            "progress": 30
+            "progress": 30,
+            "href": "/Supplier/Edit/32475"
         }
     ],
     "vendorTotals": {
@@ -770,5 +773,223 @@
             "name": "Invoice",
             "amount": 30562.37
         }
-    ]
-}
+    ],
+    "activityTimelineController": [
+        {
+            "id": 65565,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/65565",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Test AAD request Fully approved",
+            "time": "548 days 14 hours 30 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 65617,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/65617",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Test case 3624_2 Fully approved",
+            "time": "541 days 19 hours 11 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 65650,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/65650",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Load test 1 Fully approved",
+            "time": "539 days 22 hours 17 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 65654,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/65654",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Load test 2 Fully approved",
+            "time": "539 days 22 hours 16 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 65655,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/65655",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Load test 3 Fully approved",
+            "time": "539 days 22 hours 15 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 65658,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/65658",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Load test 4 Fully approved",
+            "time": "539 days 22 hours 15 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 65659,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/65659",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Load test 5 Fully approved",
+            "time": "539 days 22 hours 15 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 65660,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/65660",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Load test 6 Fully approved",
+            "time": "539 days 22 hours 15 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 65661,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/65661",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Load test 6 Fully approved",
+            "time": "539 days 22 hours 14 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 65662,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/65662",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Load test 7 Fully approved",
+            "time": "539 days 22 hours 13 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 65665,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/65665",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Load test 8 Fully approved",
+            "time": "539 days 22 hours 13 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 65666,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/65666",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Load test 9 Fully approved",
+            "time": "539 days 22 hours 10 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 65667,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/65667",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Load test 10 Fully approved",
+            "time": "539 days 22 hours 9 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 66012,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/66012",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Test alert Fully approved",
+            "time": "496 days 20 hours 9 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 66146,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/66146",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Test 4102 Fully approved",
+            "time": "467 days 17 hours 18 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 66147,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/66147",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Test 4102_CompB Fully approved",
+            "time": "467 days 17 hours 12 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 66148,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/66148",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Test 4102_CompC Fully approved",
+            "time": "467 days 17 hours 12 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 66149,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/66149",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Test 4102_CompA Fully approved",
+            "time": "467 days 16 hours 59 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 66169,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/66169",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approved",
+            "description": "Purchase Test 4102_CompB Fully approved",
+            "time": "463 days 23 hours 6 minutes ago",
+            "email": ""
+        },
+        {
+            "id": 66350,
+            "Reference": null,
+            "link": "https://localhost:44303/Request/Edit/66350",
+            "typeID": 1,
+            "type": "Request",
+            "state": "Approve",
+            "description":"Purchase Test Auto create Approval Approvers: Blair *, Celeste Visagie","time":"449 days 20 hours 25 minutes ago","email":""},{"id":66353,"Reference":null,"link":"https: //localhost:44303/Request/Edit/66353","typeID":1,"type":"Request","state":"Approved","description":"Purchase Test Autocreate PO Fully approved","time":"449 days 18 hours 5 minutes ago","email":""},{"id":66357,"Reference":null,"link":"https://localhost:44303/Request/Edit/66357","typeID":1,"type":"Request","state":"Approved","description":"Purchase Test 4359 Fully approved","time":"449 days 16 hours 54 minutes ago","email":""},{"id":66385,"Reference":null,"link":"https://localhost:44303/Request/Edit/66385","typeID":1,"type":"Request","state":"Approved","description":"Purchase Test pdf file Fully approved","time":"448 days 14 hours 29 minutes ago","email":""},{"id":66403,"Reference":null,"link":"https://localhost:44303/Request/Edit/66403","typeID":1,"type":"Request","state":"Approved","description":"Purchase Test 4482 Fully approved","time":"443 days 20 hours 13 minutes ago","email":""},{"id":66866,"Reference":null,"link":"https://localhost:44303/Request/Edit/66866","typeID":1,"type":"Request","state":"Approved","description":"Purchase Test req type approval_Purchase Fully approved","time":"289 days 15 hours 25 minutes ago","email":""}]
+        }
