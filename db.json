@@ -744,5 +744,31 @@
         "type": "percent",
         "changeAmount": 18,
         "previous": 84000
-    }
+    },
+    "spendOverview": [
+        {
+            "name": "Purchase",
+            "amount": 24895.65
+        },
+        {
+            "name": "Expense",
+            "amount": 10500.36
+        },
+        {
+            "name": "Travel",
+            "amount": 14683.22
+        },
+        {
+            "name": "Capex",
+            "amount": 5622.03
+        },
+        {
+            "name": "Cash advance",
+            "amount": 2295.65
+        },
+        {
+            "name": "Invoice",
+            "amount": 30562.37
+        }
+    ]
 }
