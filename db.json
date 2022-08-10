@@ -1054,1834 +1054,1836 @@
     "supplierOverview": [
         {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-10T00:00:00-07:00",
-            "TransactionAmount": 351.49
+            "TransactionDate": 63764150400000,
+            "TransactionAmount": 644.41
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-11T00:00:00-07:00",
-            "TransactionAmount": 762.32
+            "TransactionDate": 63764236800000,
+            "TransactionAmount": 3.53
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-12T00:00:00-07:00",
-            "TransactionAmount": 495.94
+            "TransactionDate": 63764323200000,
+            "TransactionAmount": 380.45
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-13T00:00:00-07:00",
-            "TransactionAmount": 900.21
+            "TransactionDate": 63764409600000,
+            "TransactionAmount": 996.71
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-14T00:00:00-07:00",
-            "TransactionAmount": 297.96
+            "TransactionDate": 63764496000000,
+            "TransactionAmount": 563.65
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-15T00:00:00-07:00",
-            "TransactionAmount": 294.98
+            "TransactionDate": 63764582400000,
+            "TransactionAmount": 155.75
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-16T00:00:00-07:00",
-            "TransactionAmount": 368.09
+            "TransactionDate": 63764668800000,
+            "TransactionAmount": 986.55
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-17T00:00:00-07:00",
-            "TransactionAmount": 199.44
+            "TransactionDate": 63764755200000,
+            "TransactionAmount": 289.26
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-18T00:00:00-07:00",
-            "TransactionAmount": 470.08
+            "TransactionDate": 63764841600000,
+            "TransactionAmount": 342.85
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-19T00:00:00-07:00",
-            "TransactionAmount": 446.48
+            "TransactionDate": 63764928000000,
+            "TransactionAmount": 292.05
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-20T00:00:00-07:00",
-            "TransactionAmount": 70.41
+            "TransactionDate": 63765014400000,
+            "TransactionAmount": 29.75
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-21T00:00:00-07:00",
-            "TransactionAmount": 961.9
+            "TransactionDate": 63765100800000,
+            "TransactionAmount": 879.56
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-22T00:00:00-07:00",
-            "TransactionAmount": 279.0
+            "TransactionDate": 63765187200000,
+            "TransactionAmount": 618.16
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-23T00:00:00-07:00",
-            "TransactionAmount": 57.0
+            "TransactionDate": 63765273600000,
+            "TransactionAmount": 529.6
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-24T00:00:00-07:00",
-            "TransactionAmount": 210.03
+            "TransactionDate": 63765360000000,
+            "TransactionAmount": 86.55
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-25T00:00:00-07:00",
-            "TransactionAmount": 661.16
+            "TransactionDate": 63765446400000,
+            "TransactionAmount": 693.63
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-26T00:00:00-07:00",
-            "TransactionAmount": 435.56
+            "TransactionDate": 63765532800000,
+            "TransactionAmount": 519.5
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-27T00:00:00-07:00",
-            "TransactionAmount": 35.18
+            "TransactionDate": 63765619200000,
+            "TransactionAmount": 424.71
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-28T00:00:00-07:00",
-            "TransactionAmount": 611.77
+            "TransactionDate": 63765705600000,
+            "TransactionAmount": 937.13
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-29T00:00:00-07:00",
-            "TransactionAmount": 778.57
+            "TransactionDate": 63765792000000,
+            "TransactionAmount": 634.57
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-30T00:00:00-07:00",
-            "TransactionAmount": 713.46
+            "TransactionDate": 63765878400000,
+            "TransactionAmount": 777.36
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-08-31T00:00:00-07:00",
-            "TransactionAmount": 675.05
+            "TransactionDate": 63765964800000,
+            "TransactionAmount": 501.99
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-01T00:00:00-07:00",
-            "TransactionAmount": 362.55
+            "TransactionDate": 63766051200000,
+            "TransactionAmount": 425.02
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-02T00:00:00-07:00",
-            "TransactionAmount": 62.63
+            "TransactionDate": 63766137600000,
+            "TransactionAmount": 782.34
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-03T00:00:00-07:00",
-            "TransactionAmount": 86.52
+            "TransactionDate": 63766224000000,
+            "TransactionAmount": 171.5
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-04T00:00:00-07:00",
-            "TransactionAmount": 221.0
+            "TransactionDate": 63766310400000,
+            "TransactionAmount": 20.43
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-05T00:00:00-07:00",
-            "TransactionAmount": 645.1
+            "TransactionDate": 63766396800000,
+            "TransactionAmount": 566.03
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-06T00:00:00-07:00",
-            "TransactionAmount": 544.55
+            "TransactionDate": 63766483200000,
+            "TransactionAmount": 165.24
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-07T00:00:00-07:00",
-            "TransactionAmount": 341.39
+            "TransactionDate": 63766569600000,
+            "TransactionAmount": 440.43
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-08T00:00:00-07:00",
-            "TransactionAmount": 43.63
+            "TransactionDate": 63766656000000,
+            "TransactionAmount": 366.55
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-09T00:00:00-07:00",
-            "TransactionAmount": 502.72
+            "TransactionDate": 63766742400000,
+            "TransactionAmount": 500.98
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-10T00:00:00-07:00",
-            "TransactionAmount": 643.62
+            "TransactionDate": 63766828800000,
+            "TransactionAmount": 895.93
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-11T00:00:00-07:00",
-            "TransactionAmount": 642.79
+            "TransactionDate": 63766915200000,
+            "TransactionAmount": 590.28
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-12T00:00:00-07:00",
-            "TransactionAmount": 819.77
+            "TransactionDate": 63767001600000,
+            "TransactionAmount": 951.92
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-13T00:00:00-07:00",
-            "TransactionAmount": 167.38
+            "TransactionDate": 63767088000000,
+            "TransactionAmount": 559.15
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-14T00:00:00-07:00",
-            "TransactionAmount": 830.1
+            "TransactionDate": 63767174400000,
+            "TransactionAmount": 508.54
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-15T00:00:00-07:00",
-            "TransactionAmount": 278.78
+            "TransactionDate": 63767260800000,
+            "TransactionAmount": 464.12
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-16T00:00:00-07:00",
-            "TransactionAmount": 663.57
+            "TransactionDate": 63767347200000,
+            "TransactionAmount": 597.21
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-17T00:00:00-07:00",
-            "TransactionAmount": 264.27
+            "TransactionDate": 63767433600000,
+            "TransactionAmount": 755.17
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-18T00:00:00-07:00",
-            "TransactionAmount": 104.55
+            "TransactionDate": 63767520000000,
+            "TransactionAmount": 888.92
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-19T00:00:00-07:00",
-            "TransactionAmount": 836.75
+            "TransactionDate": 63767606400000,
+            "TransactionAmount": 96.44
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-20T00:00:00-07:00",
-            "TransactionAmount": 821.46
+            "TransactionDate": 63767692800000,
+            "TransactionAmount": 788.57
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-21T00:00:00-07:00",
-            "TransactionAmount": 279.25
+            "TransactionDate": 63767779200000,
+            "TransactionAmount": 941.84
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-22T00:00:00-07:00",
-            "TransactionAmount": 528.9
+            "TransactionDate": 63767865600000,
+            "TransactionAmount": 968.78
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-23T00:00:00-07:00",
-            "TransactionAmount": 771.42
+            "TransactionDate": 63767952000000,
+            "TransactionAmount": 439.12
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-24T00:00:00-07:00",
-            "TransactionAmount": 643.47
+            "TransactionDate": 63768038400000,
+            "TransactionAmount": 203.15
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-25T00:00:00-07:00",
-            "TransactionAmount": 485.89
+            "TransactionDate": 63768124800000,
+            "TransactionAmount": 144.18
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-26T00:00:00-07:00",
-            "TransactionAmount": 176.65
+            "TransactionDate": 63768211200000,
+            "TransactionAmount": 946.2
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-27T00:00:00-07:00",
-            "TransactionAmount": 15.0
+            "TransactionDate": 63768297600000,
+            "TransactionAmount": 516.99
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-28T00:00:00-07:00",
-            "TransactionAmount": 267.55
+            "TransactionDate": 63768384000000,
+            "TransactionAmount": 908.41
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-29T00:00:00-07:00",
-            "TransactionAmount": 973.89
+            "TransactionDate": 63768470400000,
+            "TransactionAmount": 210.74
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-09-30T00:00:00-07:00",
-            "TransactionAmount": 454.28
+            "TransactionDate": 63768556800000,
+            "TransactionAmount": 411.44
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-01T00:00:00-07:00",
-            "TransactionAmount": 624.71
+            "TransactionDate": 63768643200000,
+            "TransactionAmount": 86.32
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-02T00:00:00-07:00",
-            "TransactionAmount": 199.36
+            "TransactionDate": 63768729600000,
+            "TransactionAmount": 220.15
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-03T00:00:00-07:00",
-            "TransactionAmount": 781.03
+            "TransactionDate": 63768816000000,
+            "TransactionAmount": 236.5
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-04T00:00:00-07:00",
-            "TransactionAmount": 402.68
+            "TransactionDate": 63768902400000,
+            "TransactionAmount": 868.67
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-05T00:00:00-07:00",
-            "TransactionAmount": 126.01
+            "TransactionDate": 63768988800000,
+            "TransactionAmount": 304.75
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-06T00:00:00-07:00",
-            "TransactionAmount": 159.55
+            "TransactionDate": 63769075200000,
+            "TransactionAmount": 324.35
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-07T00:00:00-07:00",
-            "TransactionAmount": 539.93
+            "TransactionDate": 63769161600000,
+            "TransactionAmount": 551.46
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-08T00:00:00-07:00",
-            "TransactionAmount": 803.19
+            "TransactionDate": 63769248000000,
+            "TransactionAmount": 269.47
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-09T00:00:00-07:00",
-            "TransactionAmount": 376.13
+            "TransactionDate": 63769334400000,
+            "TransactionAmount": 315.97
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-10T00:00:00-07:00",
-            "TransactionAmount": 549.78
+            "TransactionDate": 63769420800000,
+            "TransactionAmount": 547.55
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-11T00:00:00-07:00",
-            "TransactionAmount": 584.29
+            "TransactionDate": 63769507200000,
+            "TransactionAmount": 575.07
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-12T00:00:00-07:00",
-            "TransactionAmount": 152.7
+            "TransactionDate": 63769593600000,
+            "TransactionAmount": 702.55
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-13T00:00:00-07:00",
-            "TransactionAmount": 670.01
+            "TransactionDate": 63769680000000,
+            "TransactionAmount": 517.31
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-14T00:00:00-07:00",
-            "TransactionAmount": 153.04
+            "TransactionDate": 63769766400000,
+            "TransactionAmount": 860.06
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-15T00:00:00-07:00",
-            "TransactionAmount": 45.35
+            "TransactionDate": 63769852800000,
+            "TransactionAmount": 15.52
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-16T00:00:00-07:00",
-            "TransactionAmount": 185.47
+            "TransactionDate": 63769939200000,
+            "TransactionAmount": 392.48
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-17T00:00:00-07:00",
-            "TransactionAmount": 615.86
+            "TransactionDate": 63770025600000,
+            "TransactionAmount": 696.7
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-18T00:00:00-07:00",
-            "TransactionAmount": 106.17
+            "TransactionDate": 63770112000000,
+            "TransactionAmount": 304.26
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-19T00:00:00-07:00",
-            "TransactionAmount": 108.62
+            "TransactionDate": 63770198400000,
+            "TransactionAmount": 955.75
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-20T00:00:00-07:00",
-            "TransactionAmount": 498.23
+            "TransactionDate": 63770284800000,
+            "TransactionAmount": 648.54
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-21T00:00:00-07:00",
-            "TransactionAmount": 497.15
+            "TransactionDate": 63770371200000,
+            "TransactionAmount": 395.78
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-22T00:00:00-07:00",
-            "TransactionAmount": 233.46
+            "TransactionDate": 63770457600000,
+            "TransactionAmount": 774.46
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-23T00:00:00-07:00",
-            "TransactionAmount": 668.06
+            "TransactionDate": 63770544000000,
+            "TransactionAmount": 264.37
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-24T00:00:00-07:00",
-            "TransactionAmount": 618.24
+            "TransactionDate": 63770630400000,
+            "TransactionAmount": 715.03
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-25T00:00:00-07:00",
-            "TransactionAmount": 122.05
+            "TransactionDate": 63770716800000,
+            "TransactionAmount": 286.4
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-26T00:00:00-07:00",
-            "TransactionAmount": 559.89
+            "TransactionDate": 63770803200000,
+            "TransactionAmount": 182.49
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-27T00:00:00-07:00",
-            "TransactionAmount": 17.46
+            "TransactionDate": 63770889600000,
+            "TransactionAmount": 69.46
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-28T00:00:00-07:00",
-            "TransactionAmount": 169.29
+            "TransactionDate": 63770976000000,
+            "TransactionAmount": 694.59
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-29T00:00:00-07:00",
-            "TransactionAmount": 461.36
+            "TransactionDate": 63771062400000,
+            "TransactionAmount": 602.49
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-30T00:00:00-07:00",
-            "TransactionAmount": 194.69
+            "TransactionDate": 63771148800000,
+            "TransactionAmount": 346.08
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-10-31T00:00:00-07:00",
-            "TransactionAmount": 255.8
+            "TransactionDate": 63771235200000,
+            "TransactionAmount": 374.49
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-01T00:00:00-07:00",
-            "TransactionAmount": 800.08
+            "TransactionDate": 63771321600000,
+            "TransactionAmount": 258.27
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-02T00:00:00-07:00",
-            "TransactionAmount": 795.98
+            "TransactionDate": 63771408000000,
+            "TransactionAmount": 882.05
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-03T00:00:00-07:00",
-            "TransactionAmount": 774.68
+            "TransactionDate": 63771494400000,
+            "TransactionAmount": 815.78
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-04T00:00:00-07:00",
-            "TransactionAmount": 745.15
+            "TransactionDate": 63771580800000,
+            "TransactionAmount": 535.86
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-05T00:00:00-07:00",
-            "TransactionAmount": 169.68
+            "TransactionDate": 63771667200000,
+            "TransactionAmount": 96.37
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-06T00:00:00-07:00",
-            "TransactionAmount": 764.98
+            "TransactionDate": 63771753600000,
+            "TransactionAmount": 441.66
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-07T00:00:00-07:00",
-            "TransactionAmount": 490.95
+            "TransactionDate": 63771840000000,
+            "TransactionAmount": 416.72
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-08T00:00:00-08:00",
-            "TransactionAmount": 430.33
+            "TransactionDate": 63771926400000,
+            "TransactionAmount": 930.03
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-09T00:00:00-08:00",
-            "TransactionAmount": 845.47
+            "TransactionDate": 63772012800000,
+            "TransactionAmount": 866.02
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-10T00:00:00-08:00",
-            "TransactionAmount": 849.88
+            "TransactionDate": 63772099200000,
+            "TransactionAmount": 771.99
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-11T00:00:00-08:00",
-            "TransactionAmount": 187.32
+            "TransactionDate": 63772185600000,
+            "TransactionAmount": 211.94
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-12T00:00:00-08:00",
-            "TransactionAmount": 454.67
+            "TransactionDate": 63772272000000,
+            "TransactionAmount": 299.19
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-13T00:00:00-08:00",
-            "TransactionAmount": 13.22
+            "TransactionDate": 63772358400000,
+            "TransactionAmount": 275.14
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-14T00:00:00-08:00",
-            "TransactionAmount": 963.41
+            "TransactionDate": 63772444800000,
+            "TransactionAmount": 939.74
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-15T00:00:00-08:00",
-            "TransactionAmount": 852.79
+            "TransactionDate": 63772531200000,
+            "TransactionAmount": 965.53
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-16T00:00:00-08:00",
-            "TransactionAmount": 585.14
+            "TransactionDate": 63772617600000,
+            "TransactionAmount": 177.71
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-17T00:00:00-08:00",
-            "TransactionAmount": 344.62
+            "TransactionDate": 63772704000000,
+            "TransactionAmount": 305.31
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-18T00:00:00-08:00",
-            "TransactionAmount": 324.36
+            "TransactionDate": 63772790400000,
+            "TransactionAmount": 913.87
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-19T00:00:00-08:00",
-            "TransactionAmount": 26.66
+            "TransactionDate": 63772876800000,
+            "TransactionAmount": 477.94
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-20T00:00:00-08:00",
-            "TransactionAmount": 287.04
+            "TransactionDate": 63772963200000,
+            "TransactionAmount": 975.74
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-21T00:00:00-08:00",
-            "TransactionAmount": 635.07
+            "TransactionDate": 63773049600000,
+            "TransactionAmount": 938.98
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-22T00:00:00-08:00",
-            "TransactionAmount": 885.17
+            "TransactionDate": 63773136000000,
+            "TransactionAmount": 678.9
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-23T00:00:00-08:00",
-            "TransactionAmount": 201.9
+            "TransactionDate": 63773222400000,
+            "TransactionAmount": 288.44
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-24T00:00:00-08:00",
-            "TransactionAmount": 683.38
+            "TransactionDate": 63773308800000,
+            "TransactionAmount": 741.9
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-25T00:00:00-08:00",
-            "TransactionAmount": 117.5
+            "TransactionDate": 63773395200000,
+            "TransactionAmount": 38.11
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-26T00:00:00-08:00",
-            "TransactionAmount": 257.55
+            "TransactionDate": 63773481600000,
+            "TransactionAmount": 682.02
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-27T00:00:00-08:00",
-            "TransactionAmount": 889.04
+            "TransactionDate": 63773568000000,
+            "TransactionAmount": 247.71
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-28T00:00:00-08:00",
-            "TransactionAmount": 6.87
+            "TransactionDate": 63773654400000,
+            "TransactionAmount": 308.52
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-29T00:00:00-08:00",
-            "TransactionAmount": 292.37
+            "TransactionDate": 63773740800000,
+            "TransactionAmount": 848.51
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-11-30T00:00:00-08:00",
-            "TransactionAmount": 868.34
+            "TransactionDate": 63773827200000,
+            "TransactionAmount": 981.13
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-01T00:00:00-08:00",
-            "TransactionAmount": 96.88
+            "TransactionDate": 63773913600000,
+            "TransactionAmount": 583.12
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-02T00:00:00-08:00",
-            "TransactionAmount": 68.08
+            "TransactionDate": 63774000000000,
+            "TransactionAmount": 393.23
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-03T00:00:00-08:00",
-            "TransactionAmount": 907.68
+            "TransactionDate": 63774086400000,
+            "TransactionAmount": 696.13
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-04T00:00:00-08:00",
-            "TransactionAmount": 20.22
+            "TransactionDate": 63774172800000,
+            "TransactionAmount": 899.3
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-05T00:00:00-08:00",
-            "TransactionAmount": 510.46
+            "TransactionDate": 63774259200000,
+            "TransactionAmount": 43.05
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-06T00:00:00-08:00",
-            "TransactionAmount": 82.96
+            "TransactionDate": 63774345600000,
+            "TransactionAmount": 546.74
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-07T00:00:00-08:00",
-            "TransactionAmount": 621.57
+            "TransactionDate": 63774432000000,
+            "TransactionAmount": 427.77
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-08T00:00:00-08:00",
-            "TransactionAmount": 134.13
+            "TransactionDate": 63774518400000,
+            "TransactionAmount": 50.44
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-09T00:00:00-08:00",
-            "TransactionAmount": 601.91
+            "TransactionDate": 63774604800000,
+            "TransactionAmount": 645.4
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-10T00:00:00-08:00",
-            "TransactionAmount": 146.73
+            "TransactionDate": 63774691200000,
+            "TransactionAmount": 677.07
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-11T00:00:00-08:00",
-            "TransactionAmount": 851.15
+            "TransactionDate": 63774777600000,
+            "TransactionAmount": 6.22
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-12T00:00:00-08:00",
-            "TransactionAmount": 402.08
+            "TransactionDate": 63774864000000,
+            "TransactionAmount": 100.47
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-13T00:00:00-08:00",
-            "TransactionAmount": 989.39
+            "TransactionDate": 63774950400000,
+            "TransactionAmount": 815.98
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-14T00:00:00-08:00",
-            "TransactionAmount": 374.59
+            "TransactionDate": 63775036800000,
+            "TransactionAmount": 602.8
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-15T00:00:00-08:00",
-            "TransactionAmount": 36.07
+            "TransactionDate": 63775123200000,
+            "TransactionAmount": 910.09
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-16T00:00:00-08:00",
-            "TransactionAmount": 505.03
+            "TransactionDate": 63775209600000,
+            "TransactionAmount": 201.51
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-17T00:00:00-08:00",
-            "TransactionAmount": 381.08
+            "TransactionDate": 63775296000000,
+            "TransactionAmount": 715.48
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-18T00:00:00-08:00",
-            "TransactionAmount": 381.07
+            "TransactionDate": 63775382400000,
+            "TransactionAmount": 501.54
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-19T00:00:00-08:00",
-            "TransactionAmount": 995.51
+            "TransactionDate": 63775468800000,
+            "TransactionAmount": 47.11
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-20T00:00:00-08:00",
-            "TransactionAmount": 700.99
+            "TransactionDate": 63775555200000,
+            "TransactionAmount": 731.01
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-21T00:00:00-08:00",
-            "TransactionAmount": 399.08
+            "TransactionDate": 63775641600000,
+            "TransactionAmount": 490.4
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-22T00:00:00-08:00",
-            "TransactionAmount": 571.17
+            "TransactionDate": 63775728000000,
+            "TransactionAmount": 506.97
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-23T00:00:00-08:00",
-            "TransactionAmount": 160.94
+            "TransactionDate": 63775814400000,
+            "TransactionAmount": 850.79
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-24T00:00:00-08:00",
-            "TransactionAmount": 633.9
+            "TransactionDate": 63775900800000,
+            "TransactionAmount": 96.58
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-25T00:00:00-08:00",
-            "TransactionAmount": 346.98
+            "TransactionDate": 63775987200000,
+            "TransactionAmount": 161.76
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-26T00:00:00-08:00",
-            "TransactionAmount": 641.15
+            "TransactionDate": 63776073600000,
+            "TransactionAmount": 305.61
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-27T00:00:00-08:00",
-            "TransactionAmount": 320.33
+            "TransactionDate": 63776160000000,
+            "TransactionAmount": 319.85
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-28T00:00:00-08:00",
-            "TransactionAmount": 817.55
+            "TransactionDate": 63776246400000,
+            "TransactionAmount": 800.13
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-29T00:00:00-08:00",
+            "TransactionDate": 63776332800000,
+            "TransactionAmount": 224.0
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63776419200000,
+            "TransactionAmount": 140.59
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63776505600000,
+            "TransactionAmount": 920.19
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63776592000000,
+            "TransactionAmount": 834.45
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63776678400000,
+            "TransactionAmount": 807.77
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63776764800000,
+            "TransactionAmount": 611.13
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63776851200000,
+            "TransactionAmount": 915.11
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63776937600000,
+            "TransactionAmount": 544.95
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63777024000000,
+            "TransactionAmount": 329.31
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63777110400000,
+            "TransactionAmount": 102.08
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63777196800000,
+            "TransactionAmount": 622.93
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63777283200000,
+            "TransactionAmount": 145.04
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63777369600000,
+            "TransactionAmount": 476.18
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63777456000000,
+            "TransactionAmount": 981.11
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63777542400000,
+            "TransactionAmount": 994.71
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63777628800000,
+            "TransactionAmount": 527.12
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63777715200000,
+            "TransactionAmount": 695.76
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63777801600000,
+            "TransactionAmount": 564.75
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63777888000000,
+            "TransactionAmount": 589.17
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63777974400000,
+            "TransactionAmount": 411.89
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63778060800000,
+            "TransactionAmount": 558.05
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63778147200000,
+            "TransactionAmount": 562.84
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63778233600000,
+            "TransactionAmount": 692.79
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63778320000000,
+            "TransactionAmount": 472.42
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63778406400000,
+            "TransactionAmount": 987.65
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63778492800000,
+            "TransactionAmount": 843.74
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63778579200000,
+            "TransactionAmount": 216.97
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63778665600000,
+            "TransactionAmount": 802.39
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63778752000000,
+            "TransactionAmount": 268.68
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63778838400000,
+            "TransactionAmount": 325.79
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63778924800000,
+            "TransactionAmount": 463.78
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63779011200000,
+            "TransactionAmount": 463.68
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63779097600000,
+            "TransactionAmount": 953.13
+          },
+          {
+            "VendorName": "Amazon",
+            "TransactionDate": 63779184000000,
             "TransactionAmount": 353.89
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-30T00:00:00-08:00",
-            "TransactionAmount": 638.38
+            "TransactionDate": 63779270400000,
+            "TransactionAmount": 552.69
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2021-12-31T00:00:00-08:00",
-            "TransactionAmount": 602.19
+            "TransactionDate": 63779356800000,
+            "TransactionAmount": 231.05
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-01T00:00:00-08:00",
-            "TransactionAmount": 210.32
+            "TransactionDate": 63779443200000,
+            "TransactionAmount": 483.12
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-02T00:00:00-08:00",
-            "TransactionAmount": 864.21
+            "TransactionDate": 63779529600000,
+            "TransactionAmount": 898.02
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-03T00:00:00-08:00",
-            "TransactionAmount": 703.38
+            "TransactionDate": 63779616000000,
+            "TransactionAmount": 18.94
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-04T00:00:00-08:00",
-            "TransactionAmount": 479.24
+            "TransactionDate": 63779702400000,
+            "TransactionAmount": 931.09
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-05T00:00:00-08:00",
-            "TransactionAmount": 845.49
+            "TransactionDate": 63779788800000,
+            "TransactionAmount": 413.93
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-06T00:00:00-08:00",
-            "TransactionAmount": 273.23
+            "TransactionDate": 63779875200000,
+            "TransactionAmount": 91.38
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-07T00:00:00-08:00",
-            "TransactionAmount": 719.25
+            "TransactionDate": 63779961600000,
+            "TransactionAmount": 598.44
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-08T00:00:00-08:00",
-            "TransactionAmount": 179.2
+            "TransactionDate": 63780048000000,
+            "TransactionAmount": 339.64
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-09T00:00:00-08:00",
-            "TransactionAmount": 496.07
+            "TransactionDate": 63780134400000,
+            "TransactionAmount": 604.85
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-10T00:00:00-08:00",
-            "TransactionAmount": 689.81
+            "TransactionDate": 63780220800000,
+            "TransactionAmount": 628.31
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-11T00:00:00-08:00",
-            "TransactionAmount": 936.74
+            "TransactionDate": 63780307200000,
+            "TransactionAmount": 981.07
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-12T00:00:00-08:00",
-            "TransactionAmount": 448.69
+            "TransactionDate": 63780393600000,
+            "TransactionAmount": 235.53
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-13T00:00:00-08:00",
-            "TransactionAmount": 606.18
+            "TransactionDate": 63780480000000,
+            "TransactionAmount": 238.5
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-14T00:00:00-08:00",
-            "TransactionAmount": 162.12
+            "TransactionDate": 63780566400000,
+            "TransactionAmount": 49.92
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-15T00:00:00-08:00",
-            "TransactionAmount": 959.23
+            "TransactionDate": 63780652800000,
+            "TransactionAmount": 127.06
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-16T00:00:00-08:00",
-            "TransactionAmount": 622.02
+            "TransactionDate": 63780739200000,
+            "TransactionAmount": 323.25
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-17T00:00:00-08:00",
-            "TransactionAmount": 553.54
+            "TransactionDate": 63780825600000,
+            "TransactionAmount": 442.69
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-18T00:00:00-08:00",
-            "TransactionAmount": 373.55
+            "TransactionDate": 63780912000000,
+            "TransactionAmount": 634.21
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-19T00:00:00-08:00",
-            "TransactionAmount": 338.71
+            "TransactionDate": 63780998400000,
+            "TransactionAmount": 968.32
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-20T00:00:00-08:00",
-            "TransactionAmount": 602.71
+            "TransactionDate": 63781084800000,
+            "TransactionAmount": 387.4
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-21T00:00:00-08:00",
-            "TransactionAmount": 234.21
+            "TransactionDate": 63781171200000,
+            "TransactionAmount": 174.05
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-22T00:00:00-08:00",
-            "TransactionAmount": 737.61
+            "TransactionDate": 63781257600000,
+            "TransactionAmount": 174.02
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-23T00:00:00-08:00",
-            "TransactionAmount": 317.62
+            "TransactionDate": 63781344000000,
+            "TransactionAmount": 573.04
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-24T00:00:00-08:00",
-            "TransactionAmount": 195.5
+            "TransactionDate": 63781430400000,
+            "TransactionAmount": 690.27
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-25T00:00:00-08:00",
-            "TransactionAmount": 251.95
+            "TransactionDate": 63781516800000,
+            "TransactionAmount": 120.4
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-26T00:00:00-08:00",
-            "TransactionAmount": 633.39
+            "TransactionDate": 63781603200000,
+            "TransactionAmount": 838.96
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-27T00:00:00-08:00",
-            "TransactionAmount": 0.02
+            "TransactionDate": 63781689600000,
+            "TransactionAmount": 2.52
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-28T00:00:00-08:00",
-            "TransactionAmount": 399.48
+            "TransactionDate": 63781776000000,
+            "TransactionAmount": 729.76
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-29T00:00:00-08:00",
-            "TransactionAmount": 595.56
+            "TransactionDate": 63781862400000,
+            "TransactionAmount": 364.54
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-30T00:00:00-08:00",
-            "TransactionAmount": 488.87
+            "TransactionDate": 63781948800000,
+            "TransactionAmount": 885.49
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-01-31T00:00:00-08:00",
-            "TransactionAmount": 530.27
+            "TransactionDate": 63782035200000,
+            "TransactionAmount": 918.15
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-01T00:00:00-08:00",
-            "TransactionAmount": 506.48
+            "TransactionDate": 63782121600000,
+            "TransactionAmount": 848.54
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-02T00:00:00-08:00",
-            "TransactionAmount": 689.78
+            "TransactionDate": 63782208000000,
+            "TransactionAmount": 154.67
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-03T00:00:00-08:00",
-            "TransactionAmount": 270.78
+            "TransactionDate": 63782294400000,
+            "TransactionAmount": 489.91
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-04T00:00:00-08:00",
-            "TransactionAmount": 367.08
+            "TransactionDate": 63782380800000,
+            "TransactionAmount": 770.24
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-05T00:00:00-08:00",
-            "TransactionAmount": 264.12
+            "TransactionDate": 63782467200000,
+            "TransactionAmount": 523.99
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-06T00:00:00-08:00",
-            "TransactionAmount": 12.26
+            "TransactionDate": 63782553600000,
+            "TransactionAmount": 272.06
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-07T00:00:00-08:00",
-            "TransactionAmount": 621.6
+            "TransactionDate": 63782640000000,
+            "TransactionAmount": 384.32
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-08T00:00:00-08:00",
-            "TransactionAmount": 916.82
+            "TransactionDate": 63782726400000,
+            "TransactionAmount": 724.21
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-09T00:00:00-08:00",
-            "TransactionAmount": 958.05
+            "TransactionDate": 63782812800000,
+            "TransactionAmount": 192.92
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-10T00:00:00-08:00",
-            "TransactionAmount": 388.07
+            "TransactionDate": 63782899200000,
+            "TransactionAmount": 690.64
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-11T00:00:00-08:00",
-            "TransactionAmount": 928.12
+            "TransactionDate": 63782985600000,
+            "TransactionAmount": 79.39
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-12T00:00:00-08:00",
-            "TransactionAmount": 225.67
+            "TransactionDate": 63783072000000,
+            "TransactionAmount": 593.81
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-13T00:00:00-08:00",
-            "TransactionAmount": 737.42
+            "TransactionDate": 63783158400000,
+            "TransactionAmount": 85.59
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-14T00:00:00-08:00",
-            "TransactionAmount": 188.58
+            "TransactionDate": 63783244800000,
+            "TransactionAmount": 588.91
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-15T00:00:00-08:00",
-            "TransactionAmount": 848.72
+            "TransactionDate": 63783331200000,
+            "TransactionAmount": 707.69
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-16T00:00:00-08:00",
-            "TransactionAmount": 281.0
+            "TransactionDate": 63783417600000,
+            "TransactionAmount": 290.14
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-17T00:00:00-08:00",
-            "TransactionAmount": 198.02
+            "TransactionDate": 63783504000000,
+            "TransactionAmount": 945.0
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-18T00:00:00-08:00",
-            "TransactionAmount": 114.0
+            "TransactionDate": 63783590400000,
+            "TransactionAmount": 924.97
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-19T00:00:00-08:00",
-            "TransactionAmount": 745.37
+            "TransactionDate": 63783676800000,
+            "TransactionAmount": 866.78
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-20T00:00:00-08:00",
-            "TransactionAmount": 493.03
+            "TransactionDate": 63783763200000,
+            "TransactionAmount": 747.24
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-21T00:00:00-08:00",
-            "TransactionAmount": 170.24
+            "TransactionDate": 63783849600000,
+            "TransactionAmount": 45.17
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-22T00:00:00-08:00",
-            "TransactionAmount": 741.43
+            "TransactionDate": 63783936000000,
+            "TransactionAmount": 111.81
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-23T00:00:00-08:00",
-            "TransactionAmount": 761.91
+            "TransactionDate": 63784022400000,
+            "TransactionAmount": 891.53
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-24T00:00:00-08:00",
-            "TransactionAmount": 94.22
+            "TransactionDate": 63784108800000,
+            "TransactionAmount": 783.24
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-25T00:00:00-08:00",
-            "TransactionAmount": 198.96
+            "TransactionDate": 63784195200000,
+            "TransactionAmount": 35.34
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-26T00:00:00-08:00",
-            "TransactionAmount": 272.84
+            "TransactionDate": 63784281600000,
+            "TransactionAmount": 51.22
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-27T00:00:00-08:00",
-            "TransactionAmount": 234.12
+            "TransactionDate": 63784368000000,
+            "TransactionAmount": 54.91
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-02-28T00:00:00-08:00",
-            "TransactionAmount": 953.53
+            "TransactionDate": 63784454400000,
+            "TransactionAmount": 536.93
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-01T00:00:00-08:00",
-            "TransactionAmount": 938.34
+            "TransactionDate": 63784540800000,
+            "TransactionAmount": 301.21
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-02T00:00:00-08:00",
-            "TransactionAmount": 999.46
+            "TransactionDate": 63784627200000,
+            "TransactionAmount": 815.1
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-03T00:00:00-08:00",
-            "TransactionAmount": 46.01
+            "TransactionDate": 63784713600000,
+            "TransactionAmount": 594.93
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-04T00:00:00-08:00",
-            "TransactionAmount": 309.88
+            "TransactionDate": 63784800000000,
+            "TransactionAmount": 701.35
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-05T00:00:00-08:00",
-            "TransactionAmount": 733.45
+            "TransactionDate": 63784886400000,
+            "TransactionAmount": 445.6
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-06T00:00:00-08:00",
-            "TransactionAmount": 885.79
+            "TransactionDate": 63784972800000,
+            "TransactionAmount": 436.4
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-07T00:00:00-08:00",
-            "TransactionAmount": 156.5
+            "TransactionDate": 63785059200000,
+            "TransactionAmount": 858.77
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-08T00:00:00-08:00",
-            "TransactionAmount": 485.15
+            "TransactionDate": 63785145600000,
+            "TransactionAmount": 807.1
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-09T00:00:00-08:00",
-            "TransactionAmount": 61.64
+            "TransactionDate": 63785232000000,
+            "TransactionAmount": 474.83
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-10T00:00:00-08:00",
-            "TransactionAmount": 521.29
+            "TransactionDate": 63785318400000,
+            "TransactionAmount": 5.92
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-11T00:00:00-08:00",
-            "TransactionAmount": 421.35
+            "TransactionDate": 63785404800000,
+            "TransactionAmount": 329.32
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-12T00:00:00-08:00",
-            "TransactionAmount": 336.01
+            "TransactionDate": 63785491200000,
+            "TransactionAmount": 777.44
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-13T00:00:00-08:00",
-            "TransactionAmount": 658.19
+            "TransactionDate": 63785577600000,
+            "TransactionAmount": 784.61
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-14T00:00:00-07:00",
-            "TransactionAmount": 182.97
+            "TransactionDate": 63785664000000,
+            "TransactionAmount": 636.24
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-15T00:00:00-07:00",
-            "TransactionAmount": 106.9
+            "TransactionDate": 63785750400000,
+            "TransactionAmount": 501.64
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-16T00:00:00-07:00",
-            "TransactionAmount": 940.88
+            "TransactionDate": 63785836800000,
+            "TransactionAmount": 423.0
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-17T00:00:00-07:00",
-            "TransactionAmount": 32.34
+            "TransactionDate": 63785923200000,
+            "TransactionAmount": 820.91
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-18T00:00:00-07:00",
-            "TransactionAmount": 238.18
+            "TransactionDate": 63786009600000,
+            "TransactionAmount": 306.45
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-19T00:00:00-07:00",
-            "TransactionAmount": 306.44
+            "TransactionDate": 63786096000000,
+            "TransactionAmount": 213.7
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-20T00:00:00-07:00",
-            "TransactionAmount": 733.16
+            "TransactionDate": 63786182400000,
+            "TransactionAmount": 827.61
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-21T00:00:00-07:00",
-            "TransactionAmount": 129.47
+            "TransactionDate": 63786268800000,
+            "TransactionAmount": 138.96
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-22T00:00:00-07:00",
-            "TransactionAmount": 78.63
+            "TransactionDate": 63786355200000,
+            "TransactionAmount": 275.07
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-23T00:00:00-07:00",
-            "TransactionAmount": 528.24
+            "TransactionDate": 63786441600000,
+            "TransactionAmount": 783.76
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-24T00:00:00-07:00",
-            "TransactionAmount": 11.73
+            "TransactionDate": 63786528000000,
+            "TransactionAmount": 531.03
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-25T00:00:00-07:00",
-            "TransactionAmount": 576.44
+            "TransactionDate": 63786614400000,
+            "TransactionAmount": 224.0
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-26T00:00:00-07:00",
-            "TransactionAmount": 722.08
+            "TransactionDate": 63786700800000,
+            "TransactionAmount": 864.5
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-27T00:00:00-07:00",
-            "TransactionAmount": 86.27
+            "TransactionDate": 63786787200000,
+            "TransactionAmount": 599.23
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-28T00:00:00-07:00",
-            "TransactionAmount": 491.29
+            "TransactionDate": 63786873600000,
+            "TransactionAmount": 462.97
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-29T00:00:00-07:00",
-            "TransactionAmount": 654.12
+            "TransactionDate": 63786960000000,
+            "TransactionAmount": 989.39
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-30T00:00:00-07:00",
-            "TransactionAmount": 902.81
+            "TransactionDate": 63787046400000,
+            "TransactionAmount": 432.91
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-03-31T00:00:00-07:00",
-            "TransactionAmount": 894.36
+            "TransactionDate": 63787132800000,
+            "TransactionAmount": 461.14
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-01T00:00:00-07:00",
-            "TransactionAmount": 717.52
+            "TransactionDate": 63787219200000,
+            "TransactionAmount": 199.01
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-02T00:00:00-07:00",
-            "TransactionAmount": 504.39
+            "TransactionDate": 63787305600000,
+            "TransactionAmount": 943.39
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-03T00:00:00-07:00",
-            "TransactionAmount": 394.3
+            "TransactionDate": 63787392000000,
+            "TransactionAmount": 573.64
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-04T00:00:00-07:00",
-            "TransactionAmount": 704.73
+            "TransactionDate": 63787478400000,
+            "TransactionAmount": 149.24
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-05T00:00:00-07:00",
-            "TransactionAmount": 684.83
+            "TransactionDate": 63787564800000,
+            "TransactionAmount": 104.06
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-06T00:00:00-07:00",
-            "TransactionAmount": 68.31
+            "TransactionDate": 63787651200000,
+            "TransactionAmount": 821.96
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-07T00:00:00-07:00",
-            "TransactionAmount": 344.48
+            "TransactionDate": 63787737600000,
+            "TransactionAmount": 104.28
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-08T00:00:00-07:00",
-            "TransactionAmount": 218.47
+            "TransactionDate": 63787824000000,
+            "TransactionAmount": 874.46
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-09T00:00:00-07:00",
-            "TransactionAmount": 577.87
+            "TransactionDate": 63787910400000,
+            "TransactionAmount": 375.43
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-10T00:00:00-07:00",
-            "TransactionAmount": 758.33
+            "TransactionDate": 63787996800000,
+            "TransactionAmount": 456.38
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-11T00:00:00-07:00",
-            "TransactionAmount": 89.81
+            "TransactionDate": 63788083200000,
+            "TransactionAmount": 626.83
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-12T00:00:00-07:00",
-            "TransactionAmount": 945.61
+            "TransactionDate": 63788169600000,
+            "TransactionAmount": 541.56
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-13T00:00:00-07:00",
-            "TransactionAmount": 402.97
+            "TransactionDate": 63788256000000,
+            "TransactionAmount": 665.32
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-14T00:00:00-07:00",
-            "TransactionAmount": 418.89
+            "TransactionDate": 63788342400000,
+            "TransactionAmount": 321.9
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-15T00:00:00-07:00",
-            "TransactionAmount": 135.6
+            "TransactionDate": 63788428800000,
+            "TransactionAmount": 815.58
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-16T00:00:00-07:00",
-            "TransactionAmount": 561.08
+            "TransactionDate": 63788515200000,
+            "TransactionAmount": 688.87
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-17T00:00:00-07:00",
-            "TransactionAmount": 713.51
+            "TransactionDate": 63788601600000,
+            "TransactionAmount": 135.17
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-18T00:00:00-07:00",
-            "TransactionAmount": 360.77
+            "TransactionDate": 63788688000000,
+            "TransactionAmount": 336.41
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-19T00:00:00-07:00",
-            "TransactionAmount": 547.27
+            "TransactionDate": 63788774400000,
+            "TransactionAmount": 194.77
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-20T00:00:00-07:00",
-            "TransactionAmount": 788.13
+            "TransactionDate": 63788860800000,
+            "TransactionAmount": 688.58
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-21T00:00:00-07:00",
-            "TransactionAmount": 687.02
+            "TransactionDate": 63788947200000,
+            "TransactionAmount": 455.13
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-22T00:00:00-07:00",
-            "TransactionAmount": 692.64
+            "TransactionDate": 63789033600000,
+            "TransactionAmount": 563.77
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-23T00:00:00-07:00",
-            "TransactionAmount": 227.2
+            "TransactionDate": 63789120000000,
+            "TransactionAmount": 953.55
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-24T00:00:00-07:00",
-            "TransactionAmount": 550.31
+            "TransactionDate": 63789206400000,
+            "TransactionAmount": 124.21
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-25T00:00:00-07:00",
-            "TransactionAmount": 585.95
+            "TransactionDate": 63789292800000,
+            "TransactionAmount": 752.38
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-26T00:00:00-07:00",
-            "TransactionAmount": 197.46
+            "TransactionDate": 63789379200000,
+            "TransactionAmount": 757.58
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-27T00:00:00-07:00",
-            "TransactionAmount": 760.53
+            "TransactionDate": 63789465600000,
+            "TransactionAmount": 790.14
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-28T00:00:00-07:00",
-            "TransactionAmount": 459.69
+            "TransactionDate": 63789552000000,
+            "TransactionAmount": 203.59
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-29T00:00:00-07:00",
-            "TransactionAmount": 737.61
+            "TransactionDate": 63789638400000,
+            "TransactionAmount": 307.34
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-04-30T00:00:00-07:00",
-            "TransactionAmount": 525.77
+            "TransactionDate": 63789724800000,
+            "TransactionAmount": 563.41
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-01T00:00:00-07:00",
-            "TransactionAmount": 391.45
+            "TransactionDate": 63789811200000,
+            "TransactionAmount": 122.04
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-02T00:00:00-07:00",
-            "TransactionAmount": 557.28
+            "TransactionDate": 63789897600000,
+            "TransactionAmount": 543.96
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-03T00:00:00-07:00",
-            "TransactionAmount": 885.07
+            "TransactionDate": 63789984000000,
+            "TransactionAmount": 768.16
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-04T00:00:00-07:00",
-            "TransactionAmount": 353.17
+            "TransactionDate": 63790070400000,
+            "TransactionAmount": 271.03
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-05T00:00:00-07:00",
-            "TransactionAmount": 430.08
+            "TransactionDate": 63790156800000,
+            "TransactionAmount": 856.55
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-06T00:00:00-07:00",
-            "TransactionAmount": 557.86
+            "TransactionDate": 63790243200000,
+            "TransactionAmount": 560.29
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-07T00:00:00-07:00",
-            "TransactionAmount": 990.13
+            "TransactionDate": 63790329600000,
+            "TransactionAmount": 937.21
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-08T00:00:00-07:00",
-            "TransactionAmount": 204.49
+            "TransactionDate": 63790416000000,
+            "TransactionAmount": 213.24
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-09T00:00:00-07:00",
-            "TransactionAmount": 148.31
+            "TransactionDate": 63790502400000,
+            "TransactionAmount": 123.82
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-10T00:00:00-07:00",
-            "TransactionAmount": 598.82
+            "TransactionDate": 63790588800000,
+            "TransactionAmount": 327.28
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-11T00:00:00-07:00",
-            "TransactionAmount": 414.1
+            "TransactionDate": 63790675200000,
+            "TransactionAmount": 442.87
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-12T00:00:00-07:00",
-            "TransactionAmount": 745.95
+            "TransactionDate": 63790761600000,
+            "TransactionAmount": 158.24
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-13T00:00:00-07:00",
-            "TransactionAmount": 454.81
+            "TransactionDate": 63790848000000,
+            "TransactionAmount": 564.51
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-14T00:00:00-07:00",
-            "TransactionAmount": 701.08
+            "TransactionDate": 63790934400000,
+            "TransactionAmount": 97.48
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-15T00:00:00-07:00",
-            "TransactionAmount": 765.9
+            "TransactionDate": 63791020800000,
+            "TransactionAmount": 238.37
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-16T00:00:00-07:00",
-            "TransactionAmount": 859.26
+            "TransactionDate": 63791107200000,
+            "TransactionAmount": 459.75
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-17T00:00:00-07:00",
-            "TransactionAmount": 851.51
+            "TransactionDate": 63791193600000,
+            "TransactionAmount": 844.69
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-18T00:00:00-07:00",
-            "TransactionAmount": 319.08
+            "TransactionDate": 63791280000000,
+            "TransactionAmount": 935.38
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-19T00:00:00-07:00",
-            "TransactionAmount": 167.08
+            "TransactionDate": 63791366400000,
+            "TransactionAmount": 134.66
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-20T00:00:00-07:00",
-            "TransactionAmount": 887.25
+            "TransactionDate": 63791452800000,
+            "TransactionAmount": 901.87
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-21T00:00:00-07:00",
-            "TransactionAmount": 99.0
+            "TransactionDate": 63791539200000,
+            "TransactionAmount": 190.31
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-22T00:00:00-07:00",
-            "TransactionAmount": 856.77
+            "TransactionDate": 63791625600000,
+            "TransactionAmount": 852.81
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-23T00:00:00-07:00",
-            "TransactionAmount": 833.09
+            "TransactionDate": 63791712000000,
+            "TransactionAmount": 520.86
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-24T00:00:00-07:00",
-            "TransactionAmount": 840.92
+            "TransactionDate": 63791798400000,
+            "TransactionAmount": 470.57
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-25T00:00:00-07:00",
-            "TransactionAmount": 933.59
+            "TransactionDate": 63791884800000,
+            "TransactionAmount": 732.25
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-26T00:00:00-07:00",
-            "TransactionAmount": 751.12
+            "TransactionDate": 63791971200000,
+            "TransactionAmount": 361.49
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-27T00:00:00-07:00",
-            "TransactionAmount": 3.43
+            "TransactionDate": 63792057600000,
+            "TransactionAmount": 716.08
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-28T00:00:00-07:00",
-            "TransactionAmount": 570.24
+            "TransactionDate": 63792144000000,
+            "TransactionAmount": 175.67
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-29T00:00:00-07:00",
-            "TransactionAmount": 845.02
+            "TransactionDate": 63792230400000,
+            "TransactionAmount": 123.11
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-30T00:00:00-07:00",
-            "TransactionAmount": 213.62
+            "TransactionDate": 63792316800000,
+            "TransactionAmount": 72.73
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-05-31T00:00:00-07:00",
-            "TransactionAmount": 34.02
+            "TransactionDate": 63792403200000,
+            "TransactionAmount": 758.07
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-01T00:00:00-07:00",
-            "TransactionAmount": 611.03
+            "TransactionDate": 63792489600000,
+            "TransactionAmount": 626.94
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-02T00:00:00-07:00",
-            "TransactionAmount": 207.11
+            "TransactionDate": 63792576000000,
+            "TransactionAmount": 293.36
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-03T00:00:00-07:00",
-            "TransactionAmount": 778.35
+            "TransactionDate": 63792662400000,
+            "TransactionAmount": 538.26
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-04T00:00:00-07:00",
-            "TransactionAmount": 93.13
+            "TransactionDate": 63792748800000,
+            "TransactionAmount": 60.58
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-05T00:00:00-07:00",
-            "TransactionAmount": 258.78
+            "TransactionDate": 63792835200000,
+            "TransactionAmount": 809.12
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-06T00:00:00-07:00",
-            "TransactionAmount": 786.78
+            "TransactionDate": 63792921600000,
+            "TransactionAmount": 499.64
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-07T00:00:00-07:00",
-            "TransactionAmount": 776.04
+            "TransactionDate": 63793008000000,
+            "TransactionAmount": 120.54
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-08T00:00:00-07:00",
-            "TransactionAmount": 715.05
+            "TransactionDate": 63793094400000,
+            "TransactionAmount": 191.59
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-09T00:00:00-07:00",
-            "TransactionAmount": 303.98
+            "TransactionDate": 63793180800000,
+            "TransactionAmount": 981.54
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-10T00:00:00-07:00",
-            "TransactionAmount": 297.19
+            "TransactionDate": 63793267200000,
+            "TransactionAmount": 477.9
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-11T00:00:00-07:00",
-            "TransactionAmount": 235.26
+            "TransactionDate": 63793353600000,
+            "TransactionAmount": 648.17
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-12T00:00:00-07:00",
-            "TransactionAmount": 938.7
+            "TransactionDate": 63793440000000,
+            "TransactionAmount": 938.83
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-13T00:00:00-07:00",
-            "TransactionAmount": 674.7
+            "TransactionDate": 63793526400000,
+            "TransactionAmount": 593.73
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-14T00:00:00-07:00",
-            "TransactionAmount": 100.27
+            "TransactionDate": 63793612800000,
+            "TransactionAmount": 971.96
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-15T00:00:00-07:00",
-            "TransactionAmount": 667.32
+            "TransactionDate": 63793699200000,
+            "TransactionAmount": 23.14
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-16T00:00:00-07:00",
-            "TransactionAmount": 964.08
+            "TransactionDate": 63793785600000,
+            "TransactionAmount": 725.5
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-17T00:00:00-07:00",
-            "TransactionAmount": 252.36
+            "TransactionDate": 63793872000000,
+            "TransactionAmount": 582.32
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-18T00:00:00-07:00",
-            "TransactionAmount": 510.65
+            "TransactionDate": 63793958400000,
+            "TransactionAmount": 612.08
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-19T00:00:00-07:00",
-            "TransactionAmount": 452.93
+            "TransactionDate": 63794044800000,
+            "TransactionAmount": 18.87
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-20T00:00:00-07:00",
-            "TransactionAmount": 72.18
+            "TransactionDate": 63794131200000,
+            "TransactionAmount": 639.14
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-21T00:00:00-07:00",
-            "TransactionAmount": 167.69
+            "TransactionDate": 63794217600000,
+            "TransactionAmount": 581.0
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-22T00:00:00-07:00",
-            "TransactionAmount": 18.85
+            "TransactionDate": 63794304000000,
+            "TransactionAmount": 795.17
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-23T00:00:00-07:00",
-            "TransactionAmount": 576.6
+            "TransactionDate": 63794390400000,
+            "TransactionAmount": 131.71
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-24T00:00:00-07:00",
-            "TransactionAmount": 153.0
+            "TransactionDate": 63794476800000,
+            "TransactionAmount": 99.35
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-25T00:00:00-07:00",
-            "TransactionAmount": 260.92
+            "TransactionDate": 63794563200000,
+            "TransactionAmount": 995.48
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-26T00:00:00-07:00",
-            "TransactionAmount": 450.44
+            "TransactionDate": 63794649600000,
+            "TransactionAmount": 749.34
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-27T00:00:00-07:00",
-            "TransactionAmount": 770.4
+            "TransactionDate": 63794736000000,
+            "TransactionAmount": 23.83
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-28T00:00:00-07:00",
-            "TransactionAmount": 145.83
+            "TransactionDate": 63794822400000,
+            "TransactionAmount": 265.02
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-29T00:00:00-07:00",
-            "TransactionAmount": 405.2
+            "TransactionDate": 63794908800000,
+            "TransactionAmount": 221.31
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-06-30T00:00:00-07:00",
-            "TransactionAmount": 280.67
+            "TransactionDate": 63794995200000,
+            "TransactionAmount": 570.45
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-07-01T00:00:00-07:00",
-            "TransactionAmount": 146.14
+            "TransactionDate": 63795081600000,
+            "TransactionAmount": 487.78
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-07-02T00:00:00-07:00",
-            "TransactionAmount": 85.71
+            "TransactionDate": 63795168000000,
+            "TransactionAmount": 816.38
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-07-03T00:00:00-07:00",
-            "TransactionAmount": 660.94
+            "TransactionDate": 63795254400000,
+            "TransactionAmount": 777.34
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-07-04T00:00:00-07:00",
-            "TransactionAmount": 291.04
+            "TransactionDate": 63795340800000,
+            "TransactionAmount": 295.46
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-07-05T00:00:00-07:00",
-            "TransactionAmount": 529.31
+            "TransactionDate": 63795427200000,
+            "TransactionAmount": 542.17
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-07-06T00:00:00-07:00",
-            "TransactionAmount": 265.08
+            "TransactionDate": 63795513600000,
+            "TransactionAmount": 591.12
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-07-07T00:00:00-07:00",
-            "TransactionAmount": 402.7
+            "TransactionDate": 63795600000000,
+            "TransactionAmount": 752.49
           },
           {
             "VendorName": "Amazon",
-            "TransactionDate": "2022-07-08T00:00:00-07:00",
-            "TransactionAmount": 334.19
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-09T00:00:00-07:00",
-            "TransactionAmount": 233.36
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-10T00:00:00-07:00",
-            "TransactionAmount": 798.73
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-11T00:00:00-07:00",
-            "TransactionAmount": 801.71
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-12T00:00:00-07:00",
-            "TransactionAmount": 330.28
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-13T00:00:00-07:00",
-            "TransactionAmount": 589.34
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-14T00:00:00-07:00",
-            "TransactionAmount": 316.3
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-15T00:00:00-07:00",
-            "TransactionAmount": 589.98
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-16T00:00:00-07:00",
-            "TransactionAmount": 644.31
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-17T00:00:00-07:00",
-            "TransactionAmount": 884.63
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-18T00:00:00-07:00",
-            "TransactionAmount": 466.89
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-19T00:00:00-07:00",
-            "TransactionAmount": 992.51
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-20T00:00:00-07:00",
-            "TransactionAmount": 513.29
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-21T00:00:00-07:00",
-            "TransactionAmount": 477.32
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-22T00:00:00-07:00",
-            "TransactionAmount": 785.83
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-23T00:00:00-07:00",
-            "TransactionAmount": 118.33
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-24T00:00:00-07:00",
-            "TransactionAmount": 867.68
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-25T00:00:00-07:00",
-            "TransactionAmount": 592.58
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-26T00:00:00-07:00",
-            "TransactionAmount": 318.43
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-27T00:00:00-07:00",
-            "TransactionAmount": 356.75
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-28T00:00:00-07:00",
-            "TransactionAmount": 351.59
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-29T00:00:00-07:00",
-            "TransactionAmount": 558.45
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-30T00:00:00-07:00",
-            "TransactionAmount": 534.58
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-07-31T00:00:00-07:00",
-            "TransactionAmount": 742.63
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-08-01T00:00:00-07:00",
-            "TransactionAmount": 356.46
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-08-02T00:00:00-07:00",
-            "TransactionAmount": 36.09
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-08-03T00:00:00-07:00",
-            "TransactionAmount": 749.55
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-08-04T00:00:00-07:00",
-            "TransactionAmount": 877.3
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-08-05T00:00:00-07:00",
-            "TransactionAmount": 875.79
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-08-06T00:00:00-07:00",
-            "TransactionAmount": 4.0
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-08-07T00:00:00-07:00",
-            "TransactionAmount": 109.9
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-08-08T00:00:00-07:00",
-            "TransactionAmount": 297.2
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-08-09T00:00:00-07:00",
-            "TransactionAmount": 128.48
-          },
-          {
-            "VendorName": "Amazon",
-            "TransactionDate": "2022-08-10T00:00:00-07:00",
-            "TransactionAmount": 287.61
+            "TransactionDate": 63795686400000,
+            "TransactionAmount": 763.14
           }
+          
+          
           
           
         
