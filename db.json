@@ -3248,5 +3248,12 @@
             "TransactionTicks": 63795686400000,
             "TransactionAmount": 745.08
         }
+    ],
+    "suppliers": [
+        { "Name": "Amazon" }
+        , { "Name": "Google" }
+        , { "Name": "Microsoft" }
+        , { "Name": "Apple" }
+        , { "Name": "Facebook" }
     ]
 }
