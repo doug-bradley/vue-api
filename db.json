@@ -1,6 +1,5 @@
 {
     "invoices": [
-<<<<<<< HEAD
       {
         "InvoiceID": 30534,
         "TenantID": 71,
@@ -1598,91 +1597,3 @@
     ]
   }
   
-=======
-        {
-        "id": 1,
-        "invoice_number": "INV-0001",
-        "invoice_date": "2014-01-01",
-        "due_date": "2014-01-31",
-        "description": "Invoice 1",
-        "approval_group": "Group 1",
-        "supplier": "Supplier 1",
-        "type": "Goods",
-        "quantity": 1,
-        "cost": 100
-        },
-        {
-        "id": 2,
-        "invoice_number": "INV-0002",
-        "invoice_date": "2014-01-01",
-        "due_date": "2014-01-31",
-        "description": "Invoice 2",
-        "approval_group": "Group 1",
-        "supplier": "Supplier 1",
-        "type": "Goods",
-        "quantity": 1,
-        "cost": 100
-        },
-        {
-        "id": 3,
-        "invoice_number": "INV-0003",
-        "invoice_date": "2014-01-01",
-        "due_date": "2014-01-31",
-        "description": "Invoice 3",
-        "approval_group": "Group 1",
-        "supplier": "Supplier 1",
-        "type": "Goods",
-        "quantity": 1,
-        "cost": 100
-        },
-        {
-        "id": 4,
-        "invoice_number": "INV-0004",
-        "invoice_date": "2014-01-01",
-        "due_date": "2014-01-31",
-        "description": "Invoice 4",
-        "approval_group": "Group 1",
-        "supplier": "Supplier 1",
-        "type": "Goods",
-        "quantity": 1,
-        "cost": 100
-        },
-        {
-        "id": 5,
-        "invoice_number": "INV-0005",
-        "invoice_date": "2014-01-01",
-        "due_date": "2014-01-31",
-        "description": "Invoice 5",
-        "approval_group": "Group 1",
-        "supplier": "Supplier 1",
-        "type": "Goods",
-        "quantity": 1,
-        "cost": 100
-        },
-        {
-        "id": 6,
-        "invoice_number": "INV-0006",
-        "invoice_date": "2014-01-01",
-        "due_date": "2014-01-31",
-        "description": "Invoice 6",
-        "approval_group": "Group 1",
-        "supplier": "Supplier 1",
-        "type": "Goods",
-        "quantity": 1,
-        "cost": 100
-        },
-        {
-        "id": 7,
-        "invoice_number": "INV-0007",
-        "invoice_date": "2014-01-01",
-        "due_date": "2014-01-31",
-        "description": "Invoice 7",
-        "approval_group": "Group 1",
-        "supplier": "Supplier 1",
-        "type": "Goods",
-        "quantity": 1,
-        "cost": 100
-        }
-        ]
-}
->>>>>>> 2fc16338dfc2c3588289847bac80854d4579d781
