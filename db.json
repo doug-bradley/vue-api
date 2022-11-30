@@ -4,7 +4,7 @@
     "TenantID": 71,
     "RequestTypeID": 1000,
     "CurrentStateID": -1,
-    "InvoiceRef": "INV-1",
+    "InvoiceRef": "INV--1",
     "InvoiceDate": "2020-02-24T00:00:00",
     "SupplierID": 26658,
     "ProcessorID": 6892,
